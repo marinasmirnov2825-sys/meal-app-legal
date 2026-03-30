@@ -45,4 +45,4 @@ Nutritional information in MEAL is provided for reference only and does not comp
 For questions about nutritional information:
 Marina Smirnov
 Montreal, Quebec, Canada
-Email: [your email here]
+Email: contact.selfcaresse@gmail.com
