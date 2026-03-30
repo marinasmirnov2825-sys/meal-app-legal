@@ -68,4 +68,4 @@ We may update these terms periodically. Continued use of the app after changes c
 
 Marina Smirnov
 Montreal, Quebec, Canada
-Email: [your email here]
+Email: contact.selfcaresse@gmail.com
