@@ -6,7 +6,7 @@
 
 MEAL ("we", "us", "our") is a meal preparation application developed by Marina Smirnov, based in Montreal, Quebec, Canada.
 
-Contact: [your email here]
+Contact: contact.selfcaresse@gmail.com
 
 ## Information We Collect
 
@@ -47,7 +47,7 @@ As a Quebec resident, you have the right to:
 - **Delete** your account and all associated data (available in Profile → Delete Account)
 - **Withdraw consent** at any time by deleting your account
 
-To exercise these rights, contact us at: [your email here]
+To exercise these rights, contact us at: contact.selfcaresse@gmail.com
 
 ## Data Retention
 
@@ -66,4 +66,4 @@ We may update this policy periodically. We will notify you of significant change
 For privacy inquiries:
 Marina Smirnov
 Montreal, Quebec, Canada
-Email: [your email here]
+Email: contact.selfcaresse@gmail.com
